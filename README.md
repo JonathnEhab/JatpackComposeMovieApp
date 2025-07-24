@@ -27,7 +27,7 @@ This project demonstrates real-world implementation of **MVI (Model-View-Intent)
 The project follows **Clean Architecture principles**, with a fully decoupled and testable structure across four core layers:
 
 - **Presentation**: Jetpack Compose UI + MVI (Intent → ViewModel → State)
-- **Domain**: Business logic + use cases
+- **Domain**: Business logic 
 - **Data**: Repositories + data sources + DTOs
 - **Core**: Shared utilities (error handling, mappers, constants)
 
