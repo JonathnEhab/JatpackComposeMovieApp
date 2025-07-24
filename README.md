@@ -68,9 +68,9 @@ This app implements a **unidirectional data flow** using the **MVI (Model-View-I
 
 ## 📸 Screenshots
 
-| Popular Screen | Movie Details | Upcoming Screen |
+| Popular Screen | Upcoming Screen | Movie Details |
 |----------------|---------------|------------------|
-| ![Popular](screenshots/Popular.png) | ![Details](screenshots/Details.png) | ![Upcoming](screenshots/Upcoming.png) |
+| ![Popular](https://github.com/JonathnEhab/JatpackComposeMovieApp/blob/master/Popular.png) | ![Upcoming](https://raw.githubusercontent.com/JonathnEhab/JatpackComposeMovieApp/refs/heads/master/Upcoming.png)  | ![Details]([screenshots/Details.png](https://github.com/JonathnEhab/JatpackComposeMovieApp/blob/master/Details.png))  |
 
 
 > 📁 *Place your screenshots in the `screenshots` folder inside the root project directory.*
