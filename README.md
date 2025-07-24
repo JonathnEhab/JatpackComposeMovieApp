@@ -17,9 +17,8 @@ This project demonstrates real-world implementation of **MVI (Model-View-Intent)
 | Pagination             | [Paging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview) |
 | Local Caching          | [Room](https://developer.android.com/jetpack/androidx/releases/room) |
 | State Management       | Kotlin StateFlow + MVI                       |
-| Image Loading          | [Coil](https://coil-kt.github.io/coil/)     |
 | API Provider           | [TMDB API](https://developers.themoviedb.org/) |
-| Error Handling         | Centralized Exception Layer                  |
+
 
 ---
 
