@@ -77,17 +77,6 @@ This app implements a **unidirectional data flow** using the **MVI (Model-View-I
 
 ---
 
-## 🛠 Getting Started
-
-### 🔐 Prerequisites
-
-- Android Studio **Hedgehog** or newer
-- Kotlin 1.9+
-- Minimum SDK 24+
-- A valid [TMDB API Key](https://www.themoviedb.org/settings/api)
-
-### 🚀 How to Run
-
-1. Clone the repo:
+##  Clone the repo:
    ```bash
    git clone https://github.com/your-username/jetpack-compose-movie-app.git
